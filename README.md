@@ -22,11 +22,11 @@ eso se pudo terminar el proyecto con lo requerimentos que se nos pedian.
   
 - Análisis interactivo de datos
   
-  Los datos son mas 51000 automoviles los cuales hay muchas marcas, tipos y precios, lo mas importante para este proyecto es
-  el odometro( cantidad de km/millas de cada automovil, por lo que podemos graficar los datos para ver la cantidad de automoviles
-  con mas o menos km/millas que han recorrido, ya que al comprar un automovil es importante los datos de cada columna, es tambien
-  un dato valioso saber cuantos km/millas tiene un automovil antes de comprarlo, ya que un automovil con muchos km/millas va estar mas desgastado
-  que uno con menos, pero esto es solo un punto que se debe analizar antes de adquirir un automovil.
+Los datos son mas 51000 automoviles los cuales hay muchas marcas, tipos y precios, lo mas importante para este proyecto es
+el odometro( cantidad de km/millas de cada automovil, por lo que podemos graficar los datos para ver la cantidad de automoviles
+con mas o menos km/millas que han recorrido, ya que al comprar un automovil es importante los datos de cada columna, es tambien
+un dato valioso saber cuantos km/millas tiene un automovil antes de comprarlo, ya que un automovil con muchos km/millas va estar mas desgastado
+que uno con menos, pero esto es solo un punto que se debe analizar antes de adquirir un automovil.
 
 EL grafico de histograma asi como el de dispersion tienen varias opciones como: bajar la imagen, zoom, pan, full screen entre otros por lo que se puiede interactuar
 con el grafico, para ver los datos mas facil y hacer un analisis, tambien al pasar la flecha del mouse encima de cada linea se pueden ver los datos.
