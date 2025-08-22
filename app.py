@@ -5,7 +5,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 
 
-car_data = pd.read_csv('C:/Users/Aguacate/vehicle-data-analysis/vehicles_us.csv')
+car_data = pd.read_csv('vehicles_us.csv')
 st.title("Análisis de Datos de Vehículos")
 st.write("Datos cargados exitosamente!")
 st.write(f"El dataset tiene {len(car_data)} filas y {len(car_data.columns)} columnas")
