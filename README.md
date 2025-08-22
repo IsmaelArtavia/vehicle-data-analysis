@@ -33,7 +33,10 @@ con el grafico, para ver los datos mas facil y hacer un analisis, tambien al pas
   
 
 ## Cómo usar la aplicación
-[Instrucciones básicas]
+
+La app se abre desde la pagina y sale un mensaje con la cantidad de filas y columnas del archivo csv de los automoviles, tambien se pueden ver dos botones los cuales solo uno sirve a la
+vez, o sea si le doy al click boton de Construir histograma o al de construir grafico dispersion, se va a desplegar un grafico abajo de ese boton, si toco el otro boton que no habia
+tocado se despliega el otro grafico abajo del boton, puede durar unos milisegundos.
 
 
 Links: 
