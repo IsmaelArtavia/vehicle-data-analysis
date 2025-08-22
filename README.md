@@ -6,16 +6,24 @@ corroborar que la pagina cargaba correctamente.
 
 ## Descripción del Proyecto
 Esta aplicación web interactiva permite hacer un grafico de dispersion o un histograma con los datos de vehicles_us.csv que contiene
-datos de mas de 51000 automoviles, con loas siguientes columnas: price(precio), model_year(año del automovil), condition(el estado del automovil, buena, como nueva, ...etc), cyliders(cilindrada), fuel(combustible con el que funciona), type(tipo de auto, pick up, sedan,etc),
-paint_color(color de pintura), is_4wd( si es 4wd: traccion en las 4 ruedas, dated_posted( dia publicado), day_listed( dias listados o dias
+datos de mas de 51000 automoviles, con loas siguientes columnas: price(precio), model_year(año del automovil), condition(el estado del automovil, buena, como nueva, ...etc), cyliders(cilindrada), fuel(combustible con el que funciona), odometer( cantidad de km/mill que tiene el automovil, transmission (tipo de transmision), type(tipo de auto, pick up, sedan,etc),paint_color(color de pintura), is_4wd( si es 4wd: traccion en las 4 ruedas, dated_posted( dia publicado), day_listed( dias listados o dias
 en la lista o pagina web).
-Lo que se pretendia con este proyecto
-
+Lo que se pretendia con este proyecto es hacer una pagina web basica de forma local, despues subir los archivo a github y al final cargar 
+el archivo app.py para ver la pagina wen en linea, suena muy facil pero lleva muchos pasos y aplicaciones que se deben de usar, a persar de
+eso se pudo terminar el proyecto con lo requerimentos que se nos pedian.
 
 ## Funcionalidades
-- Visualización de histogramas
-- Creación de gráficos de dispersión
+- Visualización de histogramas: se crea un boton que toma todos los datos del archivo vehicles_us.csv y los grafica en un histograma,
+  para poder visualizar los de forma mas facil y ver patrones.
+  
+- Creación de gráficos de dispersión: se crea un boton que toma los datos del archivo vehicles_us.csv y los grafico de dispersion,
+  para poder visualizar los de forma mas facil y ver patrones.
+  
 - Análisis interactivo de datos
+  Los datos son mas 51000 automoviles los cuales hay muchas marcas, tipos y precios, lo mas importante para este proyecto es
+  el odometro( cantidad de km/millas de cada automovil, por lo que podemos graficar los datos para ver la cantidad de automoviles
+  con mas o menos km/millas que han recorrido, ya que al comprar un automovil es importante los datos de cada columna, es tambien
+  un dato valioso saber cuantos km/millas tiene un automovil antes de comprarlo, 
 
 ## Cómo usar la aplicación
 [Instrucciones básicas]
