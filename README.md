@@ -38,7 +38,10 @@ La app se abre desde la pagina y sale un mensaje con la cantidad de filas y colu
 vez, o sea si le doy al click boton de Construir histograma o al de construir grafico dispersion, se va a desplegar un grafico abajo de ese boton, si toco el otro boton que no habia
 tocado se despliega el otro grafico abajo del boton, puede durar unos milisegundos.
 
-Abajo se escriben los links de las paginas donde se guardan los datos y donde se cargo la app:
+Abajo se escriben los links de las paginas donde se guardan los datos y donde se cargo la app.
+
 Links: 
+
 https://vehicle-data-analysis-1.onrender.com/
+
 https://github.com/IsmaelArtavia/vehicle-data-analysis
