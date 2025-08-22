@@ -13,6 +13,7 @@ el archivo app.py para ver la pagina wen en linea, suena muy facil pero lleva mu
 eso se pudo terminar el proyecto con lo requerimentos que se nos pedian.
 
 ## Funcionalidades
+
 - Visualización de histogramas: se crea un boton que toma todos los datos del archivo vehicles_us.csv y los grafica en un histograma,
   para poder visualizar los de forma mas facil y ver patrones.
   
@@ -20,10 +21,13 @@ eso se pudo terminar el proyecto con lo requerimentos que se nos pedian.
   para poder visualizar los de forma mas facil y ver patrones.
   
 - Análisis interactivo de datos
+  
   Los datos son mas 51000 automoviles los cuales hay muchas marcas, tipos y precios, lo mas importante para este proyecto es
   el odometro( cantidad de km/millas de cada automovil, por lo que podemos graficar los datos para ver la cantidad de automoviles
   con mas o menos km/millas que han recorrido, ya que al comprar un automovil es importante los datos de cada columna, es tambien
-  un dato valioso saber cuantos km/millas tiene un automovil antes de comprarlo, 
+  un dato valioso saber cuantos km/millas tiene un automovil antes de comprarlo, ya que un automovil con muchos km/millas va estar mas desgastado
+  que uno con menos, pero esto es solo un punto que se debe analizar antes de adquirir un automovil.
+  
 
 ## Cómo usar la aplicación
 [Instrucciones básicas]
